@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Focus-Backend%20%26%20DevOps-0077B5?style=flat" alt="Focus" />
   </p>
 
-  <p><b>Exploring AI-powered features, robust Backend architectures, and DevOps practices to ship reliable software.</b></p>
+  <p><b>Python Developer → DevOps Engineer | Building reliable backend systems & automation</b></p>
 </div>
 
 <br clear="all"/>
