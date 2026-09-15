@@ -43,7 +43,6 @@
 
 ---
 
-## 👨‍💻 About Me
 
 I'm a Python Backend Developer focused on building reliable backend systems, REST APIs, asynchronous services, and automation.
 
