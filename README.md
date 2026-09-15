@@ -20,17 +20,17 @@
 <br clear="all"/>
 
 ## Get in Touch
-  
+
 <div align="center">
 
 <a href="https://github.com/maksim-sharshov">
-  <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/maksim-sharshov-75a4542b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="m.sharshov.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=00FF00" />
+<a href="mailto:m.sharshov.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
