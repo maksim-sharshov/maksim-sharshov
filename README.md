@@ -9,7 +9,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" />
-    <img src="https://img.shields.io/github/followers/maksim-sharshov?label=Followers&logo=github&style=flat&color=0077B5" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/maksim-sharshov?label=Followers&logo=github&style=flat&color=0077B5&cacheSeconds=300" alt="Followers" />
     <img src="https://komarev.com/ghpvc/?username=maksim-sharshov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Focus-Backend%20%26%20DevOps-0077B5?style=flat" alt="Focus" />
   </p>
