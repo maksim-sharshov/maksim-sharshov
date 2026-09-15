@@ -103,11 +103,17 @@
 ### Testing
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![unittest](https://img.shields.io/badge/-unittest-3776AB?style=flat&logo=python&logoColor=white)
-
-
 </td>
   </tr>
 </table>
+
+## GitHub stats🐍
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maksim-sharshov&theme=tokyonight)
+
+</div>
 
 <br />
 
