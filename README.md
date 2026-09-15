@@ -83,6 +83,15 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake.svg" />
+  </picture>
+</div>
+
+
 ## Get in Touch
   
 <div align="center">
