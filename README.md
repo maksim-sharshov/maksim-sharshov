@@ -76,23 +76,19 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## GitHub Stats & Trophies 🏆
+## GitHub Stats 🐍
 
 <div align="center">
 
-<!-- 3D Кубки достижений профиля -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=maksim-sharshov&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Maksim's Trophies" />
-</a>
+<!-- Живой график активности (работает на собственном CDN GitHub, не падает) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maksim-sharshov&theme=tokyo-night&radius=16&height=300" width="100%" alt="Activity Graph" />
 
 <br><br>
 
-<!-- Анимированный 3D График активности -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <img alt="3D Isometric Contribution Graph" src="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</picture>
+<!-- Стабильная карточка трофеев и достижений -->
+<a href="https://github.com/maksim-sharshov">
+  <img src="https://github-profile-trophy.vercel.app/?username=maksim-sharshov&theme=onedark&column=6&margin-w=10&margin-h=10&no-bg=true" alt="Trophies" />
+</a>
 
 </div>
 
