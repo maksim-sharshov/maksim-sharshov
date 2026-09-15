@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&duration=70&pause=1000&color=4F46E5&background=4230FF00&center=true&width=500&height=75&lines=Maksim+Sharshov" alt="Maksim Sharshov" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&duration=10&pause=1000&color=4F46E5&background=4230FF00&center=true&width=500&height=75&lines=Maksim+Sharshov" alt="Maksim Sharshov" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" />
