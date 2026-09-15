@@ -11,9 +11,7 @@
     <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" />
     <img src="https://img.shields.io/github/followers/maksim-sharshov?label=Followers&logo=github&style=flat&color=0077B5" alt="Followers" />
     <img src="https://komarev.com/ghpvc/?username=maksim-sharshov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Location-Tiraspol-red?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Focus-Backend%20%26%20DevOps-0077B5?style=flat" alt="Focus" />
-    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" opacity="0.9" />
   </p>
 
   <p><b>Exploring AI-powered features, robust Backend architectures, and DevOps practices to ship reliable software.</b></p>
