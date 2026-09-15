@@ -42,7 +42,7 @@
 
 <div align="left">
   <div align="center">
-    <img align="right" src="./docs/ghost.gif" width="200" alt="Ghost Animation" />
+    <img align="right" src="./docs/terminal.gif" width="200" alt="terminal animation" />
   </div>
 
 ### Languages
