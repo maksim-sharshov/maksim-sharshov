@@ -3,7 +3,7 @@ name: generate animation
 on:
   schedule:
     # Запуск каждые 5 минут (минимально допустимый интервал GitHub Actions)
-    - cron: "*/5 * * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
