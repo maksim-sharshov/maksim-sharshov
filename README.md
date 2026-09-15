@@ -107,11 +107,11 @@
   </tr>
 </table>
 
-## GitHub stats🐍
+## GitHub Stats 🐍
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maksim-sharshov&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maksim-sharshov&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
