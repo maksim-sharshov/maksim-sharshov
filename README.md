@@ -113,3 +113,5 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake.svg" />
   </picture>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-sharshov&layout=compact&theme=github_dark&hide_border=true" />
