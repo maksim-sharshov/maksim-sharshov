@@ -95,15 +95,26 @@
 ---
 
 <div align="center">
-  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake.svg" />
+  </picture>
 </div>
 
-## Get in Touch
 
+## Get in Touch
+  
 <div align="center">
 
 <a href="https://github.com/maksim-sharshov">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=00FF00" />
+</a>
+<a href="https://www.linkedin.com/in/maksim-sharshov-75a4542b4/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=00FF00" />
+</a>
+<a href="m.sharshov.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=00FF00" />
 </a>
 
 </div>
