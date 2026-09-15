@@ -80,9 +80,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maksim-sharshov&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-sharshov&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maksim-sharshov&theme=tokyo-night&radius=16" alt="Activity Graph" />
 
 </div>
 
