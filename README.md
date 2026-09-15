@@ -38,12 +38,6 @@
 
 </div>
 
-<br />
-
-<div align="center">
-  <img src="./docs/terminal.gif" width="600" alt="Terminal Animation" />
-</div>
-
 ## Tech Stack
 
 ### Languages
@@ -101,6 +95,11 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+<br />
+<div align="center">
+  <img src="./docs/terminal.gif" width="600" alt="Terminal Animation" />
+</div>
 
 
 <div align="center">
