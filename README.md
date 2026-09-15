@@ -46,7 +46,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -103,9 +103,6 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-    </td>
-  </tr>
 </table>
 
 <br />
