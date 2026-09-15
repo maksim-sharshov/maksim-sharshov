@@ -1,15 +1,22 @@
 <div align="center">
   <img src="./docs/banner.gif" width="100%" alt="Banner Animation" />
 </div>
-<br>
+
+<br />
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Maksim+Sharshov" alt="Maksim Sharshov" />
 
-<img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" valign="middle" /> 
-<img src="https://img.shields.io/github/followers/maksim-sharshov?label=Followers&logo=github&style=flat&color=0077B5" alt="Followers" valign="middle" /> 
-<img src="https://komarev.com/ghpvc/?username=maksim-sharshov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" valign="middle" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Pronouns-he%2Fhim-0077B5?style=flat" alt="he/him" />
+    <img src="https://img.shields.io/github/followers/maksim-sharshov?label=Followers&logo=github&style=flat&color=0077B5" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=maksim-sharshov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Location-Tiraspol-red?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Focus-Backend%20%26%20DevOps-0077B5?style=flat" alt="Focus" />
+    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" opacity="0.9" />
+  </p>
 
-  **Exploring AI-powered features, robust Backend architectures, and DevOps practices to ship reliable software.**
+  <p><b>Exploring AI-powered features, robust Backend architectures, and DevOps practices to ship reliable software.</b></p>
 </div>
 
 <br clear="all"/>
@@ -71,16 +78,15 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-</div>
-
 ## GitHub Stats 🐍
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maksim-sharshov&theme=tokyo-night" alt="Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=maksim-sharshov&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksim-sharshov&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
-
 
 ---
 
