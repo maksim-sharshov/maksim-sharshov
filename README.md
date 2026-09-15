@@ -14,11 +14,12 @@
     <img src="https://img.shields.io/badge/Focus-Backend%20%26%20DevOps-0077B5?style=flat" alt="Focus" />
   </p>
 
-  <p><b>Python Developer → DevOps Engineer | Building reliable backend systems & automation</b></p>
+  <p><b>Python Backend Developer | Backend Systems, Automation & DevOps</b></p>
 
   <br />
 
   <!--<img src="./docs/terminal.gif" width="600" alt="Terminal Animation" />-->
+
 </div>
 
 <br />
@@ -42,85 +43,110 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a Python Backend Developer focused on building reliable backend systems, REST APIs, asynchronous services, and automation.
+
+I primarily work with **FastAPI, Django, PostgreSQL, Redis, Docker, and Linux**, and have experience integrating third-party services such as **Bitrix24** and building Telegram applications.
+
+I'm also developing my **DevOps skills**, working with containerization, CI/CD, Linux infrastructure, and production deployments.
+
+I enjoy solving complex technical problems, building practical systems, and continuously improving my engineering skills.
+
+---
+
 ## 🛠 Tech Stack
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
 
-### Languages & Toolss
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat\&logo=gnubash\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=git\&logoColor=white)
 
 ### Backend Frameworks
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat\&logo=django\&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat\&logo=flask\&logoColor=white)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
 
 ### ORM & Data Layer
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat\&logo=sqlalchemy\&logoColor=white)
 ![Alembic](https://img.shields.io/badge/-Alembic-000000?style=flat)
-![Beanie](https://img.shields.io/badge/-Beanie-47A248?style=flat&logo=mongodb&logoColor=white)
+![Beanie](https://img.shields.io/badge/-Beanie-47A248?style=flat\&logo=mongodb\&logoColor=white)
 
 ### Telegram API
-![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
-![Telethon](https://img.shields.io/badge/-Telethon-2CA5E0?style=flat&logo=telegram&logoColor=white)
+
+![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat\&logo=telegram\&logoColor=white)
+![Telethon](https://img.shields.io/badge/-Telethon-2CA5E0?style=flat\&logo=telegram\&logoColor=white)
 
 </td>
 
 <td width="50%" valign="top">
 
 ### Async & APIs
-![Asyncio](https://img.shields.io/badge/-Asyncio-3776AB?style=flat&logo=python&logoColor=white)
+
+![Asyncio](https://img.shields.io/badge/-Asyncio-3776AB?style=flat\&logo=python\&logoColor=white)
 ![Aiohttp](https://img.shields.io/badge/-Aiohttp-2C5BB4?style=flat)
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Yandex Cloud](https://img.shields.io/badge/-Yandex_Cloud-FF0000?style=flat&logo=yandexcloud&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker_Compose-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat\&logo=nginx\&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Yandex Cloud](https://img.shields.io/badge/-Yandex_Cloud-FF0000?style=flat\&logo=yandexcloud\&logoColor=white)
 
 ### CI/CD
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat\&logo=gitlab\&logoColor=white)
 
 ### Message Queues
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat\&logo=apachekafka\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat\&logo=rabbitmq\&logoColor=white)
 
 ### Testing
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![unittest](https://img.shields.io/badge/-unittest-3776AB?style=flat&logo=python&logoColor=white)
+
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat\&logo=pytest\&logoColor=white)
+![unittest](https://img.shields.io/badge/-unittest-3776AB?style=flat\&logo=python\&logoColor=white)
+
 </td>
   </tr>
 </table>
 
-## GitHub Stats 🐍
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=maksim-sharshov&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maksim-sharshov\&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
-<br />
+### Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/maksim-sharshov/maksim-sharshov/output/github-snake.svg" />
   </picture>
 </div>
