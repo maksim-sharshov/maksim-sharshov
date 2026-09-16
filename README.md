@@ -21,25 +21,27 @@
   <!--<img src="./docs/terminal.gif" width="600" alt="Terminal Animation" />-->
 
 </div>
-
 <br />
 
 <div align="center">
 
+<a href="https://maksim-sharshov.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF88&labelColor=0D1117" />
+</a>
 <a href="https://github.com/maksim-sharshov">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=0D1117" />
 </a>
 <a href="https://www.linkedin.com/in/maksim-sharshov-75a4542b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88&labelColor=0D1117" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.sharshov.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88" />
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88&labelColor=0D1117" />
 </a>
 <a href="https://t.me/yluxw">
-  <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF88" />
+  <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF88&labelColor=0D1117" />
 </a>
-
 </div>
+
 
 ---
 
