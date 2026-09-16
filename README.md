@@ -29,17 +29,18 @@
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF88&labelColor=0D1117" />
 </a>
 <a href="https://github.com/maksim-sharshov">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/maksim-sharshov-75a4542b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=m.sharshov.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://t.me/yluxw">
-  <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF88&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
 </div>
 
 
